@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 			c = sub(a, b);
 			break;
 		case '*':
-			c = multi(a, b);dddddddddd
+			//c = multi(a, b);
 			break;
 		case '/':
 			c = div(a, b);
