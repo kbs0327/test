@@ -4,13 +4,14 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
- 
+int divmod(int, int);
+
 int main(int argc, char* argv[])
 {
 	int a, b, c;
 	char operator;
 	
-	printf("Please enter aaaaaaaa expression");
+	printf("Please enter aaaaaaaa expressionfsldkfjldskfjdslkfjdlksjclkdsjclksdjlkcjckljlk");
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)
